@@ -1,0 +1,13 @@
+Function is a block of code that is used to perform specific task.
+
+Syntax:
+ returnType name(){
+    //body
+    return statement;
+ }
+
+Syntax with Parameters:
+ returnType name(type param1,type param2){
+    //body 
+    return statement;
+ }
