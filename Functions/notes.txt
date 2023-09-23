@@ -7,7 +7,24 @@ Syntax:
  }
 
 Syntax with Parameters:
- returnType name(type param1,type param2){
+ returnType name(type param1,type param2){ 
     //body 
     return statement;
  }
+
+ the values which are at function declaration are formal Parameters.
+ the values which are at function call are actual parameters or arguments.
+
+ function also require memory in java.
+ this memory is stored in call stack.
+
+ Call by value
+ Java always calls by value
+
+
+
+ Call by Reference
+ On Arrays and Objects java is Call by Reference.
+
+ Function Overloading
+ Multiple functions with the same name but different parameters.

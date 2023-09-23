@@ -1,0 +1,19 @@
+Defination:
+    List of Elements of the same type placed in a contiguous memory location.
+Operations in Arrays:
+    ● Create
+    ● Input
+    ● Output
+    ● Update
+
+Creating an Array:
+    dataType arrayName[]=new dataType[size];
+    Example:
+        int marks[]=new int[50];
+        int numbers[]={1,2,3};
+        int moreNumbers[]={4,5,6};
+        String fruits[]={"apple","mango","orange"};
+
+
+Passing arrays as argument:
+    Always pass by reference
