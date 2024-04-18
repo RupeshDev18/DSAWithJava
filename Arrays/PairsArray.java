@@ -1,4 +1,3 @@
-package Arrays;
 
 public class PairsArray {
 
